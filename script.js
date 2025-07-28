@@ -1,4 +1,4 @@
-const colorsAmount = 10;
+const colorsAmount = 5;
 const colorsContainer = document.querySelector('.colors');
 
 /**
