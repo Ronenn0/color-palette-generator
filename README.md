@@ -4,7 +4,7 @@ A sleek and responsive web app that generates a random color palette of 10 HEX v
 
 ## 🚀 Features
 
-- Generate 10 random HEX colors
+- Generate 5 random HEX colors (Can be changed to more)
 - Click to copy any color code to the clipboard
 - Visual feedback with checkmark when a color is copied
 - Responsive grid layout using CSS Grid
@@ -18,6 +18,12 @@ A sleek and responsive web app that generates a random color palette of 10 HEX v
 - Font Awesome for icons
 - Google Fonts
 
+  ## 🖼️ Screenshot
+
+<div align="center">
+  <img width="812" height="450" alt="image" src="https://github.com/user-attachments/assets/cf3893cb-102e-42df-9849-22e30391b498" />
+</div>
+
 ## 📁 File Structure
 
 - `index.html` – Main structure of the app
@@ -27,7 +33,7 @@ A sleek and responsive web app that generates a random color palette of 10 HEX v
 ## 🖱️ How to Use
 
 1. Open `index.html` in a browser.
-2. Click **Generate Palette** to get 10 new random colors.
+2. Click **Generate Palette** to get 5 new random colors.
 3. Click any color to copy its HEX value.
 
 ## 📝 Author
