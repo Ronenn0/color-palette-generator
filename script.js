@@ -54,9 +54,7 @@ function generateColor() {
 
 
 const generateButton = document.querySelector('.generate-palette');
-generateButton.addEventListener('click', () => {
-    generateDisplay();
-});
+generateButton.addEventListener('click', generateDisplay);
 
 /**
  * 
